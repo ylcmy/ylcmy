@@ -1,5 +1,4 @@
-# Welcome To My Github!
-
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome To My Github!&center=true&size=27"> </a> </h1>
 
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=ylcmy" /> </div>
 
