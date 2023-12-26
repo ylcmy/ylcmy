@@ -33,7 +33,11 @@
 
 </div>
 
+### 🤺 About Me
+  - 🏫 An ITer who is about to graduate from Huazhong University of Science and Technology and will continue to study there
+  - 📩 Touch me at [here](ylei0228@gmail.com) if you have anything or just communication!
+
   <div>&nbsp;</div>
 
-### IDE
+### 🧰 IDE
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
