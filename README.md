@@ -1,7 +1,11 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome To My Github!&center=true&size=27"> </a> </h1>
+#  🙋 Hello
+<div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome To My Github!&center=true&size=27" />
+    </a>
+  </div>
 
-  <div>
-    <a href="https://www.youtube.com/@ylcmy"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <div align="center">
     <a href="https://space.bilibili.com/1197735953/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/floating-dream-4-17/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
