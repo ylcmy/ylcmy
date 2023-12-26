@@ -25,6 +25,16 @@
 
   <div>&nbsp;</div>
 
+
+### 🤺 About Me
+  - 🏫 An ITer who is about to graduate from Huazhong University of Science and Technology and will continue to study there
+  - 📩 Touch me at [here](ylei0228@gmail.com) if you have anything or just communication!
+
+### 🧰 Languages && IDE
+  - 🖥️ Programming: ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+  - [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+
 <div align="center" >
 
 <!-- GitHub 数据统计 -->
@@ -32,12 +42,3 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ylcmy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 </div>
-
-### 🤺 About Me
-  - 🏫 An ITer who is about to graduate from Huazhong University of Science and Technology and will continue to study there
-  - 📩 Touch me at [here](ylei0228@gmail.com) if you have anything or just communication!
-
-  <div>&nbsp;</div>
-
-### 🧰 IDE
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
