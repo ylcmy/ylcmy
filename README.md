@@ -1,6 +1,13 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome To My Github!&center=true&size=27"> </a> </h1>
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=ylcmy" /> </div>
+  <div>
+    <a href="https://www.youtube.com/@ylcmy"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://space.bilibili.com/1197735953/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/floating-dream-4-17/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=ylcmy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ylcmy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
