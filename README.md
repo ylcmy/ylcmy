@@ -35,5 +35,5 @@
 
   <div>&nbsp;</div>
 
-🧰 IDE
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+### IDE
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
