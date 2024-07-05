@@ -28,7 +28,7 @@
 
 ### 🤺 About Me
   - 🏫 An ITer who is about to graduate from Huazhong University of Science and Technology and will continue to study there
-  - 📩 Touch me at [here](ylei0228@gmail.com) if you have anything or just communication!
+  - 📩 Touch me at [here](mailto:ylei0228@gmail.com) if you have anything or just communication!
 
 ### 🧰 Languages && IDE
   - 🖥️ Programming: ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
