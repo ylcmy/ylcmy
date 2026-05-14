@@ -37,12 +37,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=ylcmy&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-  &nbsp;
   <img src="https://readme-stats-fast.vercel.app/api?username=ylcmy&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=ylcmy&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ylcmy&theme=default" alt="GitHub Streak" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=ylcmy&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
